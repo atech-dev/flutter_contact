@@ -9,7 +9,7 @@ environment:
 dependencies: 
   collection: ^1.14.11
   equatable: ^1.2.5
-  intl: ^0.16.1
+  intl: ^0.17.0
   logging: ^0.11.4
   logging_config: ^0.4.7
   quiver: ^2.1.3
