@@ -13,7 +13,7 @@ dependencies:
   logging: any
   logging_config: any
   quiver: any
-  sunny_dart: any
+  sunny_dart: ^0.6.0+4
   uuid: any
   flutter: 
     sdk: flutter
