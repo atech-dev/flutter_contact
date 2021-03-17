@@ -8,7 +8,7 @@ environment:
   flutter: ^1.10.0
 dependencies: 
   collection: ^1.14.11
-  equatable: ^1.2.5
+  equatable: any
   intl: ^0.17.0
   logging: any
   logging_config: ^0.6.7+6
